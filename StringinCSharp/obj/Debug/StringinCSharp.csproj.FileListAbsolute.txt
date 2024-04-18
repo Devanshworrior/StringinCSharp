@@ -1,0 +1,7 @@
+D:\Devansh\C Sharp\StringinCSharp\StringinCSharp\bin\Debug\StringinCSharp.exe.config
+D:\Devansh\C Sharp\StringinCSharp\StringinCSharp\bin\Debug\StringinCSharp.exe
+D:\Devansh\C Sharp\StringinCSharp\StringinCSharp\bin\Debug\StringinCSharp.pdb
+D:\Devansh\C Sharp\StringinCSharp\StringinCSharp\obj\Debug\StringinCSharp.csproj.AssemblyReference.cache
+D:\Devansh\C Sharp\StringinCSharp\StringinCSharp\obj\Debug\StringinCSharp.csproj.CoreCompileInputs.cache
+D:\Devansh\C Sharp\StringinCSharp\StringinCSharp\obj\Debug\StringinCSharp.exe
+D:\Devansh\C Sharp\StringinCSharp\StringinCSharp\obj\Debug\StringinCSharp.pdb
